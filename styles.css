@@ -1,0 +1,29 @@
+.hometitle {
+    color:blueviolet;
+    text-align: center;
+}
+
+.homepagerecipes {
+    color:blue;
+    text-align:center;
+}
+
+.pic {
+    height:auto;
+    width: 600px;
+    margin: auto;
+    display:block;
+}
+
+.steakpic{
+    width:815px;
+}
+
+.description {
+    color:green;
+}
+
+.ingredients,
+.steps{
+    color:brown;
+}
