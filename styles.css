@@ -5,11 +5,20 @@
 .hometitle {
     color:blueviolet;
     text-align: center;
+    background: #e3f4ff;
+    width: 250px;
+    padding: 20px;
+    margin: auto;
 }
 
 .homepagerecipes {
     color:blue;
     text-align:center;
+    background: #e3f4ff;
+    width: 250px;
+    margin: 15px auto;
+    border: 3px dotted red;
+    padding: 40px;
 }
 
 .pic {
